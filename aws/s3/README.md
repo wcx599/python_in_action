@@ -1,4 +1,4 @@
-git@github.com:wcx599/python_in_action.git
+git clone git@github.com:wcx599/python_in_action.git
 
 cd python_in_action/aws/s3
 
